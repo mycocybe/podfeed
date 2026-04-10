@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-          <title>Morag Pods</title>
-          <link>https://mycocybe.github.io/podfeed/</link>
-          <description>Personal podcast feed</description>
-          <language>en-gb</language>
-          <itunes:author>Claude</itunes:author>
-          <itunes:category text="Technology"/>
-          <item>
-                  <title>Pipeline Test - 10 April 2026</title>
-                  <description>Quick test pod - today's SOM v0.2 roundup</description>
-                  <enclosure url="https://mycocybe.github.io/podfeed/audio/test.mp3" length="0" type="audio/mpeg"/>
-                  <pubDate>Fri, 10 Apr 2026 20:00:00 +0100</pubDate>
-                  <itunes:duration>0:30</itunes:duration>
-          </item>
-    </channel>
+        <channel>
+                    <title>Morag Pods</title>
+                    <link>https://mycocybe.github.io/podfeed/</link>
+                    <description>Personal podcast feed</description>
+                    <language>en-gb</language>
+                    <itunes:author>Claude</itunes:author>
+                    <itunes:category text="Technology"/>
+                    <item>
+                                    <title>Pipeline Test - 10 April 2026</title>
+                                    <description>Quick test pod - today's SOM v0.2 roundup</description>
+                                    <enclosure url="https://mycocybe.github.io/podfeed/test.mp3" length="0" type="audio/mpeg"/>
+                                    <pubDate>Fri, 10 Apr 2026 20:00:00 +0100</pubDate>
+                                    <itunes:duration>0:30</itunes:duration>
+                    </item>
+        </channel>
 </rss>

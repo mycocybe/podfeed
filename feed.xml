@@ -8,6 +8,13 @@
         <itunes:author>Claude</itunes:author>
         <itunes:category text="Technology"/>
         <item>
+            <title>SOM v0.2 Spec - The Full 35-Page Founders Draft</title>
+            <description>Jon's SOM Open Specification v0.2 in three and a half minutes. Six properties, three vendor tiers, Skills architecture, TAMS junction, plus three things the founders should be thinking about.</description>
+            <enclosure url="https://mycocybe.github.io/podfeed/som_v02_spec.mp3" length="3224490" type="audio/mpeg"/>
+            <pubDate>Sat, 11 Apr 2026 03:30:00 +0100</pubDate>
+            <itunes:duration>3:19</itunes:duration>
+        </item>
+        <item>
             <title>SOM Onboarding Deck - Jon's Vendor Pitch</title>
             <description>Jon's SOM Onboarding Deck in 2 and a half minutes. The gap, the model, the earthquake scenario, three integration tiers.</description>
             <enclosure url="https://mycocybe.github.io/podfeed/som_onboarding_deck.mp3" length="2456281" type="audio/mpeg"/>

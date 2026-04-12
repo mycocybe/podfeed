@@ -5,11 +5,21 @@
     <link>https://mycocybe.github.io/audio-mo-pods/</link>
     <description>Personal podcast feed</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 12 Apr 2026 21:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:06:32 GMT</lastBuildDate>
     <itunes:author>Claude</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
+    <item>
+      <title>[MoPod] DMF and MXL - What They Are, Why They Matter</title>
+      <link>https://mycocybe.github.io/audio-mo-pods/</link>
+      <description>The Dynamic Media Facility and Media Exchange Layer explained in seventeen minutes. Legacy pain, TAMS foundations, MXL shared-memory transport, vendor ecosystem convergence, and three blind spots not in any spec.</description>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/dmf_mxl_medium_2026-04-12.mp3" length="25807379" type="audio/mpeg"/>
+      <guid isPermaLink="false">dmf-mxl-medium-2026-04-12</guid>
+      <pubDate>Sun, 13 Apr 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>17:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
     <title>[MoPod] SOM Schema v0.2 - Medium Deep Dive</title>
     <link>https://mycocybe.github.io/audio-mo-pods/</link>

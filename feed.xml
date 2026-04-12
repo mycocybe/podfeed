@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Morag Pods</title>
+                <title>All MoPods</title>
         <link>https://mycocybe.github.io/podfeed/</link>
         <description>Personal podcast feed</description>
         <language>en-gb</language>
         <itunes:author>Claude</itunes:author>
         <itunes:category text="Technology"/>
+                <itunes:image href="https://mycocybe.github.io/podfeed/artwork.jpg"/>
         <item>
             <title>SOM v0.2 Spec Deep Dive - The Full 35-Page Founders Draft</title>
             <description>The complete SOM Open Specification v0.2 in 21 minutes. All nine sections: why SOM exists, the story object, six architectural properties, federated identity, three vendor tiers, Skills architecture with progressive disclosure and conflict resolution, TAMS junction, open standard commitment. Plus three things not in the spec the founders should be thinking about, and actions.</description>

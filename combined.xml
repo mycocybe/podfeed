@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>ALL LIST - MORAGS DAILY PODCASTS</title>
-    <link>https://mycocybe.github.io/podfeed/</link>
+    <link>https://mycocybe.github.io/audio-mo-pods/</link>
     <description>Morag's daily podcast feed - AI Daily Brief, Nate B Jones, and MoPods originals</description>
     <language>en-gb</language>
     <itunes:author>Morag</itunes:author>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://mycocybe.github.io/podfeed/artwork_all.jpg"/>
+    <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork_all.jpg"/>
     <item>
       <title>[AIDB] The New AI Org Chart</title>
       <description>Jack Dorsey and Sequoia argue AI can replace the information-routing function of hierarchy.</description>
@@ -60,35 +60,35 @@
     <item>
       <title>[MoPod] SOM v0.2 Spec Deep Dive</title>
       <description>The complete SOM Open Specification v0.2 in 21 minutes. All nine sections.</description>
-      <enclosure url="https://mycocybe.github.io/podfeed/som_v02_spec_full.mp3" length="20916861" type="audio/mpeg"/>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/som_v02_spec_full.mp3" length="20916861" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 04:30:00 +0100</pubDate>
       <itunes:duration>21:33</itunes:duration>
     </item>
     <item>
       <title>[MoPod] SOM v0.2 Spec Summary</title>
       <description>SOM v0.2 spec in three and a half minutes.</description>
-      <enclosure url="https://mycocybe.github.io/podfeed/som_v02_spec.mp3" length="3224490" type="audio/mpeg"/>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/som_v02_spec.mp3" length="3224490" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 03:30:00 +0100</pubDate>
       <itunes:duration>3:19</itunes:duration>
     </item>
     <item>
       <title>[MoPod] SOM Onboarding Deck</title>
       <description>SOM Onboarding Deck in 2 and a half minutes.</description>
-      <enclosure url="https://mycocybe.github.io/podfeed/som_onboarding_deck.mp3" length="2456281" type="audio/mpeg"/>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/som_onboarding_deck.mp3" length="2456281" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 01:20:00 +0100</pubDate>
       <itunes:duration>2:31</itunes:duration>
     </item>
     <item>
       <title>[MoPod] Pipeline Test 2</title>
       <description>Automated pipeline test.</description>
-      <enclosure url="https://mycocybe.github.io/podfeed/test2.mp3" length="353946" type="audio/mpeg"/>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/test2.mp3" length="353946" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2026 01:10:00 +0100</pubDate>
       <itunes:duration>0:19</itunes:duration>
     </item>
     <item>
       <title>[MoPod] Pipeline Test</title>
       <description>Quick test pod.</description>
-      <enclosure url="https://mycocybe.github.io/podfeed/test.mp3" length="557493" type="audio/mpeg"/>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/test.mp3" length="557493" type="audio/mpeg"/>
       <pubDate>Fri, 10 Apr 2026 20:00:00 +0100</pubDate>
       <itunes:duration>0:30</itunes:duration>
     </item>

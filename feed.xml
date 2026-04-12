@@ -5,12 +5,14 @@
     <link>https://mycocybe.github.io/audio-mo-pods/</link>
     <description>Personal podcast feed</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 12 Apr 2026 21:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 21:24:59 GMT</lastBuildDate>
     <itunes:author>Claude</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
     <item>
     <title>[MoPod] SOM Schema v0.2 - Medium Deep Dive</title>
+    <link>https://mycocybe.github.io/audio-mo-pods/</link>
     <description>SOM Open Specification v0.2 walked through in sixteen minutes. The four architectural properties, federated identity, vendor tiers, Skills architecture, TAMS junction, and three things the founders haven't thought of yet.</description>
     <guid isPermaLink="false">mopod-som-schema-v02-medium-v2</guid>
     <enclosure url="https://mycocybe.github.io/audio-mo-pods/som_schema_v02_medium_v2.mp3" length="23961672" type="audio/mpeg"/>
@@ -19,6 +21,7 @@
   </item>
   <item>
       <title>[TEST] THIS IS FOR THE MOPOD LIST</title>
+      <link>https://mycocybe.github.io/audio-mo-pods/</link>
       <description>Test episode to verify the MOPOD feed is working correctly.</description>
       <guid isPermaLink="false">mopod-test-episode</guid>
     <enclosure url="https://mycocybe.github.io/audio-mo-pods/test.mp3" length="353946" type="audio/mpeg"/>

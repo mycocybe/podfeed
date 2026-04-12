@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>MoPods</title>
+    <title>ALL LIST - MORAGS DAILY PODCASTS</title>
     <link>https://mycocybe.github.io/podfeed/</link>
-    <description>Morag's combined podcast feed - AI Daily Brief, Nate B Jones, and MoPods originals</description>
+    <description>Morag's daily podcast feed - AI Daily Brief, Nate B Jones, and MoPods originals</description>
     <language>en-gb</language>
-    <itunes:author>MoPods</itunes:author>
+    <itunes:author>Morag</itunes:author>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://mycocybe.github.io/podfeed/artwork.jpg"/>
+    <itunes:image href="https://mycocybe.github.io/podfeed/artwork_all.jpg"/>
     <item>
       <title>[AIDB] The New AI Org Chart</title>
       <description>Jack Dorsey and Sequoia argue AI can replace the information-routing function of hierarchy.</description>

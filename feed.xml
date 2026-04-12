@@ -9,6 +9,12 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
     <item>
+      <title>[TEST] THIS IS FOR THE MOPOD LIST</title>
+      <description>Test episode to verify the MOPOD feed is working correctly.</description>
+      <pubDate>Sat, 12 Apr 2026 20:00:00 +0100</pubDate>
+      <itunes:duration>0:01</itunes:duration>
+    </item>
+    <item>
       <title>SOM v0.2 Spec Deep Dive - The Full 35-Page Founders Draft</title>
       <description>The complete SOM Open Specification v0.2 in 21 minutes. All nine sections: why SOM exists, the story object, six architectural properties, federated identity, three vendor tiers, Skills architecture with progressive disclosure and conflict resolution, TAMS junction, open standard commitment. Plus three things not in the spec the founders should be thinking about, and actions.</description>
       <enclosure url="https://mycocybe.github.io/audio-mo-pods/som_v02_spec_full.mp3" length="20916861" type="audio/mpeg"/>

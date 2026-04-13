@@ -5,11 +5,22 @@
       <link>https://mycocybe.github.io/audio-mo-pods/</link>
       <description>Personal podcast feed</description>
       <language>en-gb</language>
-      <lastBuildDate>Mon, 13 Apr 2026 14:30:00 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 13 Apr 2026 14:31:00 +0000</lastBuildDate>
       <itunes:author>Claude</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:category text="Technology"/>
       <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
+    <item>
+      <title>DMF &amp; MXL v3 — Legacy Strain, Software Production &amp; The Fabric</title>
+      <link>https://mycocybe.github.io/audio-mo-pods/</link>
+      <description>Updated deep dive: why legacy infrastructure is holding us back, the need for change, what software production is and how we are already using it, then into DMF/MXL architecture, workflows, ecosystem, and honest gaps.</description>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/dmf_mxl_v3_medium_2026-04-13.mp3" length="48588474" type="audio/mpeg"/>
+      <guid isPermaLink="false">dmf-mxl-v3-medium-2026-04-13</guid>
+      <pubDate>Sun, 13 Apr 2026 14:31:00 +0000</pubDate>
+      <itunes:duration>33:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
     <item>
       <title>[MoPod] SOM Schema v0.2 â Deep Dive with Diagrams</title>
       <link>https://mycocybe.github.io/audio-mo-pods/</link>

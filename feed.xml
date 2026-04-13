@@ -5,28 +5,28 @@
       <link>https://mycocybe.github.io/audio-mo-pods/</link>
       <description>Personal podcast feed</description>
       <language>en-gb</language>
-      <lastBuildDate>Sun, 13 Apr 2026 12:45:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 13 Apr 2026 14:30:00 +0000</lastBuildDate>
       <itunes:author>Claude</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:category text="Technology"/>
       <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
     <item>
-      <title>[MoPod] SOM Schema v0.2 — Deep Dive with Diagrams</title>
+      <title>[MoPod] SOM Schema v0.2 â Deep Dive with Diagrams</title>
       <link>https://mycocybe.github.io/audio-mo-pods/</link>
       <description>SOM Open Specification v0.2 walked through in sixteen minutes. Architecture, six properties, Skills specification, federated identity, vendor tiers, TAMS junction, and three blind spots. Includes diagram callouts.</description>
       <enclosure url="https://mycocybe.github.io/audio-mo-pods/som_schema_v02_deep_dive_2026-04-13.mp3" length="23961672" type="audio/mpeg"/>
       <guid isPermaLink="false">mopod-som-schema-v02-deep-dive-2026-04-13</guid>
-      <pubDate>Sun, 13 Apr 2026 14:00:00 +0100</pubDate>
+      <pubDate>Mon, 13 Apr 2026 14:00:00 +0100</pubDate>
       <itunes:duration>16:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>[MoPod] DMF and MXL — What They Are, Why They Matter</title>
+      <title>[MoPod] DMF and MXL â What They Are, Why They Matter</title>
       <link>https://mycocybe.github.io/audio-mo-pods/</link>
       <description>The Dynamic Media Facility and Media Exchange Layer explained in seventeen minutes. Legacy pain, TAMS foundations, MXL shared-memory transport, vendor ecosystem convergence, and three blind spots not in any spec.</description>
       <enclosure url="https://mycocybe.github.io/audio-mo-pods/dmf_mxl_medium_2026-04-12.mp3" length="25807379" type="audio/mpeg"/>
       <guid isPermaLink="false">dmf-mxl-medium-2026-04-12</guid>
-      <pubDate>Sun, 13 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
       <itunes:duration>17:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
